@@ -52,9 +52,9 @@ The only requirement is a current version of OpenSCAD. It is free software and a
       screenShot.png      --Screen shot showing an example
 ```
 ### Generating New 3D Data
-My original data came from the **Protein Database**.
+My original data came from the **Protein Database**: 
 [**NIH Protein Database**](https://www.ncbi.nlm.nih.gov/protein/)
-Since then I have found an easier way to access 3D data or even create 3D molecular data by using **Molview**
+Since then I have found an easier way to access 3D data or even create 3D molecular data by using **Molview**: 
 [**Molview.org**](https://molview.org/)
 The protiein database and Pub Chem Compounds can be accesed through the Molview web app.  After you find the molocule you are looking for you can export the data as a MOL file.  The MOL file is text based and the 3D data will still need to be seperated from the rest of the file.
  
