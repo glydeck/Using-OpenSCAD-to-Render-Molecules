@@ -34,9 +34,10 @@ Color and size of the atoms is based on **van der Walls** spheres. More informat
 
 
 Some of the data I used came from an earlier experiment I did using **Blender**. This original experiment is obsolete since it was done using Python 2.7 and Blender has moved on to Python 3.
-[Blender.org](https://www.blender.org/)
-[Glydeck Blog](http://glydeck.blogspot.com/2013/09/v-behaviorurldefaultvmlo.html)
-[Glydeck Git Hub](https://github.com/glydeck/MoloculeParser)
+
+- [Blender.org](https://www.blender.org/)
+- [Glydeck Blog](http://glydeck.blogspot.com/2013/09/v-behaviorurldefaultvmlo.html)
+- [Glydeck Git Hub](https://github.com/glydeck/MoloculeParser)
 ### Requirements
 The only requirement is a current version of OpenSCAD. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 [**OpenSCAD**](https://openscad.org/)
