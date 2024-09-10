@@ -13,6 +13,7 @@ This is a simple simple experiment to see how easy it is to render external data
 Here is a sample line of data from the array:
 
 `[1.52,0.94,0,0,1,2,0],`
+
 This line in the array would create a red oxygen atom with a radius of 1.52 anstroms located 2.23 angstroms from the orgin.
 
 Color and size of the atoms is based on **van der Walls** spheres. More information can be found on **Wikipedia**:
