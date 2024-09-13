@@ -21,7 +21,7 @@ Color and size of the atoms is based on **van der Walls** spheres. More informat
 | Element | Color | Radius |
 | ----------- | ----------- |----------|
 | Carbon     |  Light Grey |   1.7   |
-| Oxygen     |  Red        |   1,52  |
+| Oxygen     |  Red        |   1.52  |
 | Hydrogen   |  White      |   1.2   |
 | Nitrogen   |  Light Blue |   1.55  |
 | Sulfur     |  Yellow     |   1.8   |
